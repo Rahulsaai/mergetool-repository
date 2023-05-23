@@ -1,2 +1,3 @@
-FILE-1 ONE
-FILE-2 TWO(master changes)
+FILE-1 one
+FILE-2 TWO(master change)
+FILE-3 THREE
